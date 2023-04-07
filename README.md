@@ -12,7 +12,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Data files 
 
-Two tab-delimited text files ```training_data.txt``` and ```test_data.txt``` are provided. The training data (labeled activity information included) should be used to construct and test your ML algorithms. Apply your algorithm to the test data (containing only feature information) and predict the activity corresponding to each time window.
+Two tab-delimited text files ```training_data.zip``` and ```test_data.txt``` are provided. The training data (labeled activity information included) should be used to construct and test your ML algorithms. Apply your algorithm to the test data (containing only feature information) and predict the activity corresponding to each time window.
 
 
 
