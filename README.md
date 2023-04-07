@@ -17,7 +17,7 @@ Two tab-delimited text files ```training_data.zip``` and ```test_data.txt``` are
 The first task is to build a binary classifier to classify the activity of each time window into static (0) and dynamic (1), where static postural transitions are coounted as static (0).
 The second task is build a refined multi-class classifier to classify walking (1), walking_upstairs (2), walking_downstairs (3), sitting (4), standing (5), lying (6), and static postural transition (7).
 
-## Session inforamtion
+## Session information
 
 For binary classificaton task, require R version 4.1.3, and following packages:
 ```
