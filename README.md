@@ -28,5 +28,6 @@ tidytext      * 0.4.1
 tidyverse     * 1.3.2  
 ipred         * 0.9-14  
 ```
-The complete R session info can be found [here](session_info/R_session_info.txt)
+The complete R session info can be found [here](session_info/R_session_info.txt)  
 
+For multi-class task, require Python version: 3.10.9, the package requirments are listed in [```requirementx.txt```]() file.
