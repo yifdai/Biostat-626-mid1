@@ -35,8 +35,8 @@ For multi-class task, require Python version: 3.10.9, the package requirments ar
 ## Reproduction
 
 ### binary classfication
-For binary classfication, please access to [mid1_binary.Rmd](mid1_binary.Rmd)
+For binary classfication, please access to [/model/mid1_binary.Rmd](mid1_binary.Rmd)
 ### multi-classfication
 As I'm using jupyter notebook, you can simply get accesses to the result as it is already been saved.(But for the model you need to re-run it.)
-For the best performed model, please access to [mid1_multiclass-o.ipynb](mid1_multiclass-o.ipynb)  
-For the last submitted model, please access to [mid1_multiclass.ipynb](mid1_multiclass.ipynb)
+For the best performed model, please access to [mid1_multiclass-o.ipynb](/model/mid1_multiclass-o.ipynb)  
+For the last submitted model, please access to [mid1_multiclass.ipynb](/model/mid1_multiclass.ipynb)
