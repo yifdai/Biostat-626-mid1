@@ -34,7 +34,7 @@ In Mac OS, you can use following commands:
 unzip train_data.zip -d ~/Biostat-626-mid1/data
 ```
 
-In Windows OS, you can use any unzip software(e.g. Bandzip), to unzip the file under '''/data'''.
+In Windows OS, you can use any unzip software(e.g. Bandzip), to unzip the file under /data.
 
 ### binary classfication
 For binary classfication, please access to [mid1_binary.Rmd](/model/mid1_binary.Rmd)
