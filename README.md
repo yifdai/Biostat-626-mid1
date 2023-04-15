@@ -20,6 +20,21 @@ The complete R session info can be found [here](session_info/R_session_info.txt)
 For multi-class task, require Python version: 3.10.9, the package requirments are listed in [```requirementx.txt```](session_info/requirements.txt) file.
 
 ## Reproduction
+Note: To get training_data.txt, you need to unzip ```/data/training_data.zip``` first.
+
+In linux OS, you can use following commands:
+
+```
+cd ~/Biostat-626-mid1/data
+unzip training_data.zip
+```
+
+In Mac OS, you can use following commands:
+```
+unzip train_data.zip -d ~/Biostat-626-mid1/data
+```
+
+In Windows OS, you can use any unzip software(e.g. Bandzip), to unzip the file under '''/data'''.
 
 ### binary classfication
 For binary classfication, please access to [mid1_binary.Rmd](/model/mid1_binary.Rmd)
