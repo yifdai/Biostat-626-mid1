@@ -39,7 +39,7 @@ In Windows OS, you can use any unzip software(e.g. Bandzip), to unzip the file u
 ### binary classfication
 For binary classfication, please access to [mid1_binary.Rmd](/model/mid1_binary.Rmd)
 ### multi-classfication
-As I'm using jupyter notebook, you can simply get accesses to the result as it has already been saved.(But for the model you need to re-run it.)
+As I'm using jupyter notebook, you can simply get accesses to the result as it has already been saved.(But for the model you need to re-run it.)  
 For the best performed model, please access to [mid1_multiclass-o.ipynb](/model/mid1_multiclass-o.ipynb)  
 For the last submitted model, please access to [mid1_multiclass.ipynb](/model/mid1_multiclass.ipynb)
 
