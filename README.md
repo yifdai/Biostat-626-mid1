@@ -31,3 +31,11 @@ ipred         * 0.9-14
 The complete R session info can be found [here](session_info/R_session_info.txt)  
 
 For multi-class task, require Python version: 3.10.9, the package requirments are listed in [```requirementx.txt```](session_info/requirements.txt) file.
+
+## Reproduction
+
+### binary classfication
+For binary classfication, please access to []
+### multi-classfication
+For the best performed model, please access to [mid1_multiclass-o.ipynb](mid1_multiclass-o.ipynb)
+For the last submitted model, please access to [mid1_multiclass.ipynb](mid1_multiclass.ipynb)
