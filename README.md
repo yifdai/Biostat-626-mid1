@@ -37,5 +37,5 @@ For multi-class task, require Python version: 3.10.9, the package requirments ar
 ### binary classfication
 For binary classfication, please access to [mid1_binary.Rmd](mid1_binary.Rmd)
 ### multi-classfication
-For the best performed model, please access to [mid1_multiclass-o.ipynb](mid1_multiclass-o.ipynb)
+For the best performed model, please access to [mid1_multiclass-o.ipynb](mid1_multiclass-o.ipynb)  
 For the last submitted model, please access to [mid1_multiclass.ipynb](mid1_multiclass.ipynb)
