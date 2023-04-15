@@ -20,7 +20,7 @@ The complete R session info can be found [here](session_info/R_session_info.txt)
 For multi-class task, the running environment is as follows:
 OS info: Windows-10-10.0.22000-SP0
 Python version: 3.10.9 | packaged by conda-forge | (main, Jan 11 2023, 15:15:40) [MSC v.1916 64 bit (AMD64)]
-The package requirements are listed in [```requirementx.txt```](session_info/requirements.txt).
+The package requirements are listed in [```requirements.txt```](session_info/requirements.txt).
 
 ## Reproduction
 Note: To get training_data.txt, you need to unzip ```/data/training_data.zip``` first.
